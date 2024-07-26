@@ -13,7 +13,7 @@ A memory card game where you match Pokémon cards. The goal is to score as many 
 ### Installation
 
 1. **Clone the Repository:**
-   ```bash
+   ```
    git clone https://github.com/your-username/pokemon-memory-game.git
 
 2. **Navigate to the Project Directory:**
