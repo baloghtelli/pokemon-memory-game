@@ -1,0 +1,29 @@
+.scoreBoard{
+  display: flex;
+  flex-direction: column;
+}
+.scoreBoard p{
+  margin: 10px 0;
+  font-size: 16px;
+}
+
+@media (max-width: 1200px){
+  .scoreBoard p{
+    font-size: 14px;
+  }
+  .scoreBoard{
+    align-items: center;
+  }
+}
+
+@media (max-width: 800px){
+  .scoreBoard{
+    align-items: center;
+  }
+}
+
+@media (max-width: 425px){
+  .scoreBoard{
+    align-items: center;
+  }
+}
